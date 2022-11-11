@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+
+Heart-experiments.Rproj
+model_files
+paper
+.DS_Store
